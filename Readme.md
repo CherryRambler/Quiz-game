@@ -18,11 +18,12 @@ https://cherryrambler.github.io/Quiz-game/
 - Responsive design for mobile and desktop
 
 ## 📸 Screenshots
-![Quiz Game](./Screenshots/Screenshot%202025-07-09%20013135.png)
-![Quiz Game](./Screenshots/Screenshot%202025-07-09%20013145.png)
-![Quiz Game](./Screenshots/Screenshot%202025-07-09%20013204.png)
-![Quiz Game](./Screenshots/Screenshot%202025-07-09%20013216.png)
-![Quiz Game](./Screenshots/Screenshot%202025-07-09%20013243.png)
+![Quiz Game](./Screenshots/Screenshot%202025-07-09%20131041.png)
+![Quiz Game](./Screenshots/Screenshot%202025-07-09%20131052.png)
+![Quiz Game](./Screenshots/Screenshot%202025-07-09%20131109.png)
+![Quiz Game](./Screenshots/Screenshot%202025-07-09%20131116.png)
+![Quiz Game](./Screenshots/Screenshot%202025-07-09%20131125.png)
+![Quiz Game](./Screenshots/Screenshot%202025-07-09%20131130.png)
 
 ## 🛠️ How to Run
 1. Clone or download this repo.
