@@ -2,7 +2,7 @@
 A simple, responsive, interactive quiz game built with HTML, CSS, and JavaScript.
 
 ## 🖥️ Live Demo
-(Add your GitHub Pages link or Netlify link here if you deploy it!)
+https://cherryrambler.github.io/Quiz-game/
 
 ## 📦 Project Structure
 - index.html - Main HTML page
